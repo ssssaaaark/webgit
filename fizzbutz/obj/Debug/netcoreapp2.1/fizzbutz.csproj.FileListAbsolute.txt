@@ -1,0 +1,11 @@
+/Users/marklipkin/Projects/fizzbutz/fizzbutz/obj/Debug/netcoreapp2.1/fizzbutz.csprojAssemblyReference.cache
+/Users/marklipkin/Projects/fizzbutz/fizzbutz/obj/Debug/netcoreapp2.1/fizzbutz.csproj.CoreCompileInputs.cache
+/Users/marklipkin/Projects/fizzbutz/fizzbutz/obj/Debug/netcoreapp2.1/fizzbutz.AssemblyInfoInputs.cache
+/Users/marklipkin/Projects/fizzbutz/fizzbutz/obj/Debug/netcoreapp2.1/fizzbutz.AssemblyInfo.cs
+/Users/marklipkin/Projects/fizzbutz/fizzbutz/bin/Debug/netcoreapp2.1/fizzbutz.deps.json
+/Users/marklipkin/Projects/fizzbutz/fizzbutz/bin/Debug/netcoreapp2.1/fizzbutz.runtimeconfig.json
+/Users/marklipkin/Projects/fizzbutz/fizzbutz/bin/Debug/netcoreapp2.1/fizzbutz.runtimeconfig.dev.json
+/Users/marklipkin/Projects/fizzbutz/fizzbutz/bin/Debug/netcoreapp2.1/fizzbutz.dll
+/Users/marklipkin/Projects/fizzbutz/fizzbutz/bin/Debug/netcoreapp2.1/fizzbutz.pdb
+/Users/marklipkin/Projects/fizzbutz/fizzbutz/obj/Debug/netcoreapp2.1/fizzbutz.dll
+/Users/marklipkin/Projects/fizzbutz/fizzbutz/obj/Debug/netcoreapp2.1/fizzbutz.pdb

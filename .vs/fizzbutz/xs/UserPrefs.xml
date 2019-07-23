@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6E2514A9-3F13-42C6-A904-6BBB8B409559}|Default">
+  <MonoDevelop.Ide.ItemProperties.fizzbutz PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="fizzbutz/Program.cs">
+    <Files>
+      <File FileName="fizzbutz/Program.cs" Line="31" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="fizzbutz" expanded="True">
+            <Node name="fizzbutz" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
