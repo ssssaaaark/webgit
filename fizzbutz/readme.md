@@ -1,3 +1,3 @@
 # Hello GIT
 
-## hello header 2§ 
+## hello header 2
